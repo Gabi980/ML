@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 
+data/raw/*.csv
 reports/figures/*.png
 reports/tables/*.csv
 reports/run_metadata.json
