@@ -1,0 +1,17 @@
+Seturi de date recomandate pentru regresie și clasificare:
+
+
+House Sales in King County, USA (Regresie)
+
+Acest set de date (disponibil pe Kaggle) conține informații reale despre vânzările de case din King County, Washington, și este folosit pentru a prezice prețul unei case pe baza caracteristicilor acesteia (ex: suprafața locuinței, număr de camere, anul construcției, etc.). Dataset-ul are 21613 instanțe și 21 de coloane (inclusiv variabila țintă). Variabila țintă este prețul de vânzare al casei (SalePrice), un număr real (variabilă numerică continuă).
+
+https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+
+
+
+Telco Customer Churn (Clasificare)
+
+Acest set de date (disponibil pe Kaggle) conține informații despre clienții unei companii de telecomunicații fictive, scopul fiind să prezică dacă un client va renunța la serviciu (adică churn – plecarea clientului). Dataset-ul include 7043 instanțe (fiecare reprezentând un client) și 21 de coloane de caracteristici descriptive (demografice, tipuri de servicii folosite, detalii de facturare etc.). Variabila țintă este „Churn”, un atribut categoric binar (Yes/No – indicând dacă clientul a părăsit compania sau nu).
+
+
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
